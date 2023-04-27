@@ -1,0 +1,8 @@
+1. Which tariff has the highest revenue on January, 2020?
+Tariff 1 has the highest revenue on Jan,2020
+
+2. Which tariff has the highest data revenue growth in last month?
+Tariff 7
+
+3. For which tariff data revenue is higher than other types of revenue?
+Tariffs : 9,10,11,12,13,14,15,16 have higher data revenue than other types
